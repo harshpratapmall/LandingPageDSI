@@ -1,0 +1,42 @@
+{
+    "Header": {
+
+        "title": "Perfect Commerce Point",
+        "paragraph": "Here at Perfect Commerce Point we teach commerce subjects for class 11th and 12th."
+
+    },
+    "About": {
+        "paragraph": "Perfect Commerce Point is the Name of Excellence from the last 32 years and a leading institute in the field of Commerce Education for the students who have opted Commerce as their career. ",
+        "Why": [
+            "Students who are interested in conceptual, in-depth studies for all the areas of subjects. ",
+            "Students who are committed to do regular assignments and test- series.",
+            "Then, this is the right platform to chase your aspirations."
+        ]
+    },
+
+    "Features": [{
+        "icon": "fa fa-group",
+        "title": "Live Classes",
+        "text": "Join the live class sessions for online studies"
+    },
+    {
+       
+        "icon": "fa fa-book",
+        "title": "Assignments",
+        "text": "Complete assignments on time and get remarks"
+    },
+    {
+        "icon": "fa fa-sign-in",
+        "title": "Register Yourself",
+        "text":"Start right after you get registered"
+    },
+    {
+        "icon": "fa fa-bullhorn",
+        "title": "Get E-Mail Notifications ",
+        "text": "You will be notified through Mails for all the classes that are being scheduled"
+    }
+]
+    
+    
+   
+}
