@@ -4,7 +4,7 @@ import './style.css'
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      <div className="col-xs-12 col-md-4"><img src='img/DSI.png' className='img-responsive' alt='' /><br/>
+      <div className="col-xs-12 col-md-4"><img src='img/DSI.png' className='logo_DSI' alt='' /><br/>
       PT Dwidasa Samsara Indonesia<br/>
       Ruko Jalur Sutera 29A No 5 Alam <br/>
       Sutera Serpong, Tangerang 15323</div>
