@@ -1,39 +1,28 @@
 {
-    "Header": {
-
-        "title": "Perfect Commerce Point",
-        "paragraph": "Here at Perfect Commerce Point we teach commerce subjects for class 11th and 12th."
-
-    },
-    "About": {
-        "paragraph": "Perfect Commerce Point is the Name of Excellence from the last 32 years and a leading institute in the field of Commerce Education for the students who have opted Commerce as their career. ",
-        "Why": [
-            "Students who are interested in conceptual, in-depth studies for all the areas of subjects. ",
-            "Students who are committed to do regular assignments and test- series.",
-            "Then, this is the right platform to chase your aspirations."
-        ]
-    },
-
     "Features": [{
-        "icon": "fa fa-group",
-        "title": "Live Classes",
-        "text": "Join the live class sessions for online studies"
+        "icon": "fa fa-laptop",
+        "title": "Our Product",
+        "text": "Our Product is made on base of our team's careful research and analysis ranging from internet based applications",
+        "button": "Read More"
     },
     {
        
-        "icon": "fa fa-book",
-        "title": "Assignments",
-        "text": "Complete assignments on time and get remarks"
+        "icon": "fa fa-server",
+        "title": "Our Service",
+        "text": "DSI's shared services focus on the front-end based software development designed specially for the banking and financial sectors",
+        "button": "Read More"
     },
     {
-        "icon": "fa fa-sign-in",
-        "title": "Register Yourself",
-        "text":"Start right after you get registered"
+        "icon": "fa fa-spinner",
+        "title": "Our Technology",
+        "text":"First JAVA, runs onmore than 850 million personal computers worldwide and on billions of devices worldwide including mobile and TV devices",
+        "button": "Read More"
     },
     {
-        "icon": "fa fa-bullhorn",
-        "title": "Get E-Mail Notifications ",
-        "text": "You will be notified through Mails for all the classes that are being scheduled"
+        "icon": "fa fa-users",
+        "title": "Our Customers ",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "button": "Read More"
     }
 ]
     

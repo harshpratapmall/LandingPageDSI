@@ -1,4 +1,6 @@
-import Button from '@material-ui/core/Button';
+import HomeOutlinedIcon from '@material-ui/icons/HomeOutlined';
+import MailOutlineIcon from '@material-ui/icons/MailOutline';
+import ShuffleIcon from '@material-ui/icons/Shuffle';
 
 export const Navigation = (props) => {
   return (
@@ -15,7 +17,7 @@ export const Navigation = (props) => {
             
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            GENUS
+          <img src='img/DSI.png' className='img-responsive' alt='' />
           </a>{' '}
         </div>
 
@@ -25,27 +27,53 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
           <li>
-              <a href='#about' className='page-scroll'>
-                About
+              <a href='#Services' className='page-scroll'>
+                Services
               </a>
             </li>
             <li>
-              <a href='#features' className='page-scroll'>
-                Features
+              <a href='#Products' className='page-scroll'>
+                Product
               </a>
             </li>
 
             <li>
-              <a href='#subject' className='page-scroll'>
-                Subjects
+              <a href='#Technology' className='page-scroll'>
+                Technology
+              </a>
+            </li>
+
+            <li>
+              <a href='#About' className='page-scroll'>
+                About
+              </a>
+            </li>
+
+            <li>
+              <a href='#Partner' className='page-scroll'>
+                Partner
+              </a>
+            </li>
+
+            <li>
+              <a href='#Home' className='page-scroll'>
+                <HomeOutlinedIcon fontSize="large"/>
+              </a>
+            </li>
+
+            <li>
+              <a href='#Mail' className='page-scroll'>
+                <MailOutlineIcon fontSize="large"/>
+              </a>
+            </li>
+
+            <li>
+              <a href='#Shuffle' className='page-scroll'>
+                <ShuffleIcon fontSize="large"/>
               </a>
             </li>
             <li >
-            <a href='#a' className='page-scroll'>
-              <Button size="large" variant="contained" color="primary">
-                Sign In
-                </Button>
-            </a>    
+                
             </li>
           </ul>
         </div>
